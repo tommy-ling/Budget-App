@@ -1,0 +1,8 @@
+.BudgetApp-container {
+  max-width: 760px;
+  min-height: 100vh;
+  margin: 0rem auto;
+  padding: 2rem 1rem 2rem 1rem;
+  text-align: center;
+  background-color: lightgray;
+}

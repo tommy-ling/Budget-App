@@ -1,0 +1,25 @@
+.Header-info {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Header-budget, .Header-expense, .Header-balance {
+  text-align: left;
+}
+
+.Header-budget button {
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: #247cfa;
+  height: 24px;
+  width: 40px;
+  font-size: 0.9rem;
+  margin-left: 1rem
+}
+
+.Header-budget input {
+  height: 24px;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,23 @@
+.AddExpense-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input, label {
+  display: block
+}
+
+input {
+  width: 100%;
+  text-align: center;
+}
+
+.AddExpense-btn {
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: #247cfa;
+  height: 30px;
+  width: 80px;
+}
